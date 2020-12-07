@@ -11,9 +11,9 @@
     Clone de Interface do Dribble feito em Flutter
     <br>
     <br>
-    <a href="https://github.com/AnalogicAllergy/movies_riverpod/issues/new">Reportar um bug</a>
+    <a href="https://github.com/AnalogicAllergy/coffee_house/issues/new">Reportar um bug</a>
     ·
-    <a href="https://github.com/AnalogicAllergy/movies_riverpod/issues/new">Requisitar uma feature</a>
+    <a href="https://github.com/AnalogicAllergy/coffee_house/issues/new">Requisitar uma feature</a>
   </p>
 </p>
 
