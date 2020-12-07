@@ -8,7 +8,7 @@
   <p align="center">
    CoffeeHouse
     <br>
-    Clone de Interface do Dribble feito em Flutter
+    Clone de Interface do Dribbble feito em Flutter
     <br>
     <br>
     <a href="https://github.com/AnalogicAllergy/coffee_house/issues/new">Reportar um bug</a>
@@ -21,6 +21,7 @@
 
 - [Captura](#captura)
 - [Executando o app](#executando-o-app)
+- [Link do Dribbble](#link-do-dribbble)
 - [O que está incluído](#o-que-está-incluido)
 - [Dependências](#dependencias)
 - [Criador](#criador)
@@ -40,6 +41,10 @@ Assim como tod app escrito em Flutter, após clonar o repositório do projeto, b
 - Navegar até o diretório clonado, e executar os seguintes comandos:
   `flutter packages get` e depois `flutter run`
 - O app deverá ser iniciado no seu dispositivo
+
+## Link do Dribbble
+
+- [Link](https://dribbble.com/shots/8245907/attachments/604807?mode=media)
 
 ## O que está incluído
 
